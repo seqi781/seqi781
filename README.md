@@ -39,6 +39,15 @@
 
 ---
 
+<!-- AI-SUMMARY-START -->
+### 🤖 本周在做什么（AI 周报 · DeepSeek 生成）
+
+> 首次运行尚未触发，等周一 00:00 UTC（北京时间周一早 8 点）自动更新，或在 Actions 页手动 Run workflow。
+
+<!-- AI-SUMMARY-END -->
+
+---
+
 ### 📈 GitHub Activity
 
 Check out my repositories and contributions directly on my GitHub profile!
